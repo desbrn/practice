@@ -6,3 +6,15 @@ HOW TO PUSH/UPDATE THROUGH GITHUB
 5. git remote add origin https://github.com/username/repository_title.git - connects your github through vscode
 6. git commit -m "your message" - commits the files inside the folder with a message.
 7. git push -u origin main - finally pushes the files inside the redirectory to github.
+
+HOW TO FIX THE "GIT" PROBLEM
+1. Find the directory pathing folder of Git itself
+2. Right Click any version of the Git Application and click "Open File Location"
+3. Copy the path of C:\Program Files\Git\cmd
+4. Search and Open "Edit the system environment variables"
+5. When opened, find and click "Environment Variables"
+6. Look for "Path" in the System Variables and then click on it
+7. Add a new pathing for the Git CMD to work, insert "C:\Program Files\Git\cmd" as the directory pathing
+8. Click "Ok" and then save your changes. Everything should work fine if you input "git --version" in your terminal inside VSCode.
+
+Thank you.
