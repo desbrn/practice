@@ -1,0 +1,13 @@
+PROBLEM 1: ATTENDANCE TRACKER
+
+START
+INPUT Student Name
+INPUT Attendance Percentage 
+
+IF Attendance Percentage >= 75
+     OUTPUT "Congrats!"  
+
+  ELSE 
+    OUTPUT "Better luck next time"
+
+END    
