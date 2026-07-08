@@ -1,0 +1,10 @@
+BEGIN
+    INPUT A
+    INPUT B
+
+    IF A > B THEN
+        PRINT "A is the larger number."
+    ELSE
+        PRINT "B is the larger number."
+    END IF
+END

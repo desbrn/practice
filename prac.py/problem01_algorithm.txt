@@ -1,0 +1,9 @@
+Problem: Find the Larger of Two Numbers
+Start.
+Input the first number (A).
+Input the second number (B).
+Compare A and B.
+If A is greater than B, display "A is the larger number."
+Otherwise, display "B is the larger number."
+Stop.
+  
